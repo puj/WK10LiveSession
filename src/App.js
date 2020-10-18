@@ -1,10 +1,10 @@
 import React from "react";
-import Survey from "./Survey.js";
+import CounterApp from "./CounterApp.js";
 
 export const App = () => {
   return (
     <section className="wrapper-section">
-      <Survey />
+      <CounterApp />
     </section>
   );
 };
